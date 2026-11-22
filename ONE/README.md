@@ -169,22 +169,5 @@ flowchart LR
 | 4 | Manager reports | Planned |
 
 ---
-
-## Try the demo
-
-```bash
-cd pos-web
-npm install
-npm run dev
-```
-
-Open the app and choose **بيانات تجريبية** (demo data). Every demo account uses the password `1234`:
-
-| User | Role |
-|---|---|
-| `manager` | Manager, all branches |
-| `sara` | Supervisor |
-| `ahmed` | Cashier |
-
 The screenshots and the video are produced automatically from this demo by `pos-web/e2e/portfolio.sh`, so they
 always show the current version of the app.
