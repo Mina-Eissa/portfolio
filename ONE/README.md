@@ -147,13 +147,4 @@ flowchart LR
 - **Built-in demo mode.** The web app can run entirely in the browser with demo data (as in the screenshots),
   so it can be shown to anyone without a server.
 
-### Quality
-
-| Suite | Size |
-|---|---|
-| Backend tests (API, business rules, contract) | 127 tests |
-| Race tests (many users at the same moment) | 25 tests |
-| Demo-mode checks | 101 checks |
-| Browser tests on the real backend (Playwright) | 11 end-to-end scenarios, desktop and phone |
-
 ---
