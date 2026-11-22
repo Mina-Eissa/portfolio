@@ -157,17 +157,3 @@ flowchart LR
 | Browser tests on the real backend (Playwright) | 11 end-to-end scenarios, desktop and phone |
 
 ---
-
-## Status
-
-| Phase | Content | Status |
-|---|---|---|
-| 1 | Branches, employees, users, catalog, suppliers, customers, assets | ✅ Done |
-| 2 | POS, hospitality, credit, returns, shifts, printing, live notifications | ✅ Done |
-| 3 | Purchasing and supplier payments, stock view and stocktake | ✅ Done |
-| 3c | Transfers between branches, waste | Next |
-| 4 | Manager reports | Planned |
-
----
-The screenshots and the video are produced automatically from this demo by `pos-web/e2e/portfolio.sh`, so they
-always show the current version of the app.
