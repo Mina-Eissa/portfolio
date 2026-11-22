@@ -3,9 +3,9 @@
 **A full web-based POS for a retail chain that sells ready-made products and drinks prepared on site.**
 Arabic, right-to-left, works on desktop, tablet and phone, in light and dark mode.
 
-![ONE demo: a cashier sale, then the manager's view](demo.gif)
+![ONE app: a cashier sale, then the manager's view](app.gif)
 
-▶ **[Watch the demo in full quality (MP4, 1 min)](demo.mp4)**
+▶ **[Watch the app in full quality (MP4, 1 min)](app.mp4)**
 
 ---
 
@@ -144,7 +144,7 @@ flowchart LR
   case has a dedicated race test.
 - **API contract first.** The frontend and backend share an OpenAPI contract with real recorded examples.
   Every endpoint is tested against it.
-- **Built-in demo mode.** The web app can run entirely in the browser with demo data (as in the screenshots),
+- **Built-in offline application mode.** The web app can run entirely in the browser with built-in application data (as in the screenshots),
   so it can be shown to anyone without a server.
 
 ---
